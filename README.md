@@ -14,9 +14,9 @@ The beginning of training  &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &e
  
 + ### A simple introduction to the code
     + #### visualization tool
-      + [visualization tool.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/MARL%20convergence.py): mian code of four robots, connections between the environment and learning agents
-      + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/RL_brain.py): one learning agent with upper-confidence bound (UCB) exploration
-      + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/plot_figure.py): reward convergence figure
+      + [visualization tool.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/MARL%20convergence.py): Mian code of four robots, connections between the environment and learning agents
+      + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/RL_brain.py): One learning agent with upper-confidence bound (UCB) exploration
+      + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/plot_figure.py): Reward convergence figure
 
     + #### MARL convergence
       + [MARL convergence.py](https://github.com/lry-bupt/Visual_MARL/tree/main/visualization%20tool): Mian code of six robots with experience exchange, connections between the environment and learning agents & the visualization of real-time system status
