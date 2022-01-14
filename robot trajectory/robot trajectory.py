@@ -424,4 +424,3 @@ SINR_k2_SN{} = (order_k2_SN{}_positive**2*p_k2_SN{})/((np.linalg.norm(w_k2_SN{}.
               fileobject.write(str(step_count)+'\n')  
     # end of game
 print('game over')
-env.destroy()
