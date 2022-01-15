@@ -20,7 +20,7 @@ The visualization and simulation of multi-agent reinforcement learning (MARL) wi
       + [MARL convergence.py](https://github.com/lry-bupt/Visual_MARL/tree/main/visualization%20tool):  &nbsp; Mian code of six robots with experience exchange, connections between the environment and learning agents & the visualization of real-time system status
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/RL_brain.py): &nbsp;  One learning agent with upper-confidence bound (UCB) exploration
 
-    + #### radio map-guided path planning
+    + #### robot trajectory
       + [robot_trajectory.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/robot%20trajectory.py):  &nbsp; Mian code of two robots, connections between the environment and learning agents
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
       + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/plot_figure.py):  &nbsp; The trajectories with different reward policy
