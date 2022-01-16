@@ -1,16 +1,19 @@
-# Visual_MARL
-The visualization and simulation of multi-agent reinforcement learning (MARL) with upper-confidence bound (UCB) exploration.
+## Visual_MARL
 
-+ ### Representative visualization stages
-  + the beginning of training <img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo2.gif" alt="show" height="200" width="200" /> 
-  
+**Note:** All code and demonstrations are used for our submitted conference paper:
+> Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," submitted to IEEE INFOCOM Demo, Jan. 2022.
+
+In this paper, we present the simulation and visualization of multi-agent reinforcement learning (MARL) with upper-confidence bound (UCB) exploration.
+
+### Representative visualization results
++ Here are four demonstrations for different stages in the MARL training process.
+  + the beginning of training &emsp; <img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo2.gif" alt="show" height="200" width="200" /> 
   + 800 rounds of training &emsp; <img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo3.gif" alt="show" height="200" width="200" />
-
   + 1600 rounds of training &nbsp; <img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo4.gif" alt="show" height="200" width="200" /> 
+  + the end of training &emsp;&emsp;<img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo1.gif" alt="show" height="200" width="200" />
 
-  + the end of training &emsp;&emsp; <img src="https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/result/demo1.gif" alt="show" height="200" width="200" />
- 
-+ ### A simple introduction to the code
+### Introduction to the code
++ Here is a simple introduction to the code used in our paper.
     + #### visualization tool
       + [visualization tool.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/MARL%20convergence.py):  &nbsp; Mian code of four robots, connections between the environment and learning agents
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
@@ -25,10 +28,7 @@ The visualization and simulation of multi-agent reinforcement learning (MARL) wi
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
       + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/plot_figure.py):  &nbsp; The trajectories with different reward policy
 
-+ ### Reference 
-  + [1] [D. C. Nguyen et al., “6G Internet of Things: A Comprehensive Survey,” IEEE Internet of Things J., vol. 9, no. 1, pp. 359-383, Jan. 2022.](https://ieeexplore.ieee.org/abstract/document/9509294)
-  + [2] [R. Luo, H. Tian and W. Ni, “Communication-Aware Path Design for Indoor Robots Exploiting Federated Deep Reinforcement Learning,” in Proc. IEEE PIMRC, Helsinki, Finland, Sept. 2021, pp. 1197-1202.](https://ieeexplore.ieee.org/document/9569440)
-  + [3] [C. Jin et al., “Is Q-learning Provably Efficient?” in Proc. NeurIPS, Montr´eal, Canada, Dec. 2018, pp. 4868-4878.](https://dl.acm.org/doi/abs/10.5555/3327345.3327395)
-
-+ ### Our related work
-  + Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," submitted to IEEE INFOCOM Demo, Jan. 2022.
+### Reference 
+[1] D. C. Nguyen et al., “[6G Internet of Things: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9509294),” IEEE Internet of Things J., vol. 9, no. 1, pp. 359-383, Jan. 2022.
+[2] R. Luo, H. Tian and W. Ni, “[Communication-Aware Path Design for Indoor Robots Exploiting Federated Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9569440),” in Proc. IEEE PIMRC, Helsinki, Finland, Sept. 2021, pp. 1197-1202.
+[3] C. Jin et al., “[Is Q-learning Provably Efficient?](https://dl.acm.org/doi/abs/10.5555/3327345.3327395)” in Proc. NeurIPS, Montr´eal, Canada, Dec. 2018, pp. 4868-4878.
