@@ -28,7 +28,9 @@ In this paper, we present the simulation and visualization of multi-agent reinfo
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
       + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/plot_figure.py):  &nbsp; The trajectories with different reward policy
 
-### Reference 
+### References 
 [1] D. C. Nguyen et al., “[6G Internet of Things: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9509294),” IEEE Internet of Things J., vol. 9, no. 1, pp. 359-383, Jan. 2022.
+
 [2] R. Luo, H. Tian and W. Ni, “[Communication-Aware Path Design for Indoor Robots Exploiting Federated Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9569440),” in Proc. IEEE PIMRC, Helsinki, Finland, Sept. 2021, pp. 1197-1202.
+
 [3] C. Jin et al., “[Is Q-learning Provably Efficient?](https://dl.acm.org/doi/abs/10.5555/3327345.3327395)” in Proc. NeurIPS, Montr´eal, Canada, Dec. 2018, pp. 4868-4878.
