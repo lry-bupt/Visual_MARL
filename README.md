@@ -15,16 +15,16 @@ In this paper, we present the simulation and visualization of multi-agent reinfo
 ### Introduction to the code
 + Here is a simple introduction to the code used in our paper.
     + #### visualization tool
-      + [visualization tool.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/MARL%20convergence.py):  &nbsp; Mian code of four robots, connections between the environment and learning agents
+      + [visualization tool.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/MARL%20convergence.py):  &nbsp; Main code of four robots, connections between the environment and learning agents
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
       + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/MARL%20convergence/plot_figure.py):  &nbsp; Reward convergence figure
 
     + #### MARL convergence
-      + [MARL convergence.py](https://github.com/lry-bupt/Visual_MARL/tree/main/visualization%20tool):  &nbsp; Mian code of six robots with experience exchange, connections between the environment and learning agents & the visualization of real-time system status
+      + [MARL convergence.py](https://github.com/lry-bupt/Visual_MARL/tree/main/visualization%20tool):  &nbsp; Main code of six robots with experience exchange, connections between the environment and learning agents & the visualization of real-time system status
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/visualization%20tool/RL_brain.py): &nbsp;  One learning agent with upper-confidence bound (UCB) exploration
 
     + #### robot trajectory
-      + [robot_trajectory.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/robot%20trajectory.py):  &nbsp; Mian code of two robots, connections between the environment and learning agents
+      + [robot_trajectory.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/robot%20trajectory.py):  &nbsp; Main code of two robots, connections between the environment and learning agents
       + [RL_brain.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/RL_brain.py):  &nbsp; One learning agent with upper-confidence bound (UCB) exploration
       + [plot_figure.py](https://github.com/lry-bupt/Visual_MARL/blob/main/robot%20trajectory/plot_figure.py):  &nbsp; The trajectories with different reward policy
 
