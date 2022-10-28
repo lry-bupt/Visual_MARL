@@ -1,7 +1,8 @@
 ## Visual_MARL
 
-**Note:** All code and demonstrations are used for our submitted conference paper:
-> Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," submitted to IEEE INFOCOM Demo, Jan. 2022.
+**Note:** All code and demonstrations are used for our submitted papers:
+> Ruyu Luo, Wanli Ni, and Hui Tian, "Visualizing Multi-Agent Reinforcement Learning for Robotic Communication in Industrial IoT Networks," IEEE INFOCOM Demo, May. 2022.
+> Ruyu Luo, Wanli Ni, Hui Tian, Julian Cheng, and Kwang-Cheng Chen, "Joint Trajectory and Radio Resource Optimization by Multi-Agent Reinforcement Learning for Autonomous Mobile Robots in Industrial Internet of Things", submitted to IEEE TVT, Nov. 2022.
 
 In this paper, we present the simulation and visualization of multi-agent reinforcement learning (MARL).
 
